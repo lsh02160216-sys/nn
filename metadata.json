@@ -1,0 +1,6 @@
+{
+  "name": "청송 백자 만들기",
+  "description": "물레 위 백색 점토를 다듬고 전통 가마에서 온도를 조절해 구워내는 청송 백자 도예 시뮬레이션 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
